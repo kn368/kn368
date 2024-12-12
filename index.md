@@ -1,4 +1,6 @@
-# Hello, and welcome to my homepage! My name is Kevin Nguyen and I am a student at [Cal State Fullerton] (http://www.fullerton.edu/) and my major is Computer Science. 
+# Hello, and welcome to my homepage! 
+
+My name is Kevin Nguyen and I am a student at [Cal State Fullerton] (http://www.fullerton.edu/) and my major is Computer Science. 
 
 ## Portfolio
 
