@@ -2,7 +2,7 @@
 
 My name is Kevin Nguyen and I am a student at [Cal State Fullerton] (http://www.fullerton.edu/) and my major is Computer Science. 
 
-## Portfolio
+## Projects
 
 My Github page is https://github.com/kn368
 
